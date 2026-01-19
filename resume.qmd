@@ -1,0 +1,108 @@
+# Resume
+
+---
+
+## 🎓 Education
+
+**University of Pennsylvania**  
+*M.S.E. in Systems Engineering*  
+Philadelphia, PA | Aug 2025 – May 2027 (Expected)
+
+**University of Illinois Urbana–Champaign**  
+*Exchange Program, College of Liberal Arts & Sciences*  
+Urbana–Champaign, IL | Aug 2023 – May 2024
+
+**ShanghaiTech University**  
+*B.E. in Computer Science and Technology*  
+Shanghai, China | Sep 2021 – Jun 2025
+
+---
+
+## 💼 Professional Experience
+
+### Data Predictor Intern  
+**Applied Technologies for Learning in the Arts & Sciences**  
+Champaign, IL | May 2024 – Aug 2024
+
+- Researched on factors such as family income and regional disparities to identify causes of academic struggle and dropout, providing insight for early intervention and policy suggestions.
+- Built and explored various machine learning models, including **Random Forest**, **Neural Networks**, and **XGBoost** in **Python** using data from 90,000+ students and 250 features; applied data cleaning, feature selection, and classification algorithms to improve prediction accuracy by 15\%.
+- Developed an interactive **Tableau** dashboard with regional heatmaps visualizing student performance by location, and presented findings to stakeholders with **Python** visualization tools such as **Matplotlib**.   
+
+---
+
+### Web Developer Intern  
+**Community Service Center of Northern Champaign County**  
+Champaign, IL | Jan 2024 – May 2024
+
+- Redesigned the community website using **WordPress**, incorporating an event calendar and bilingual functionality to improve readability, accessibility, and visibility of public programs.
+- Maintained a dynamic online presence by creating new pages with detailed images and descriptions with **HTML** and **CSS**; Enhancing visual appeal and increasing participation in key services like the food pantry.
+- Analyzed donation trends and refined the **donation system** to better support the center's charitable services, resulting in more efficient resource allocation and increased donor satisfaction.
+
+
+---
+
+## 🧪 Projects
+
+
+
+### Heart Disease Risk Analysis \& Data Visualization
+**Tools:** Python, Tableau  
+Champaign, IL | Jan 2024 – May 2024
+
+- Performed comprehensive data analysis on a **303-patient clinical dataset** to identify significant predictors of heart disease, providing data-driven insights to support medical research and diagnostic decision-making.
+- Utilized **Python** libraries including **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data cleaning, statistical computation, and exploratory visualization to ensure analytical rigor and reproducibility.
+- Developed interactive dashboards in **Tableau** to visualize correlations between clinical symptoms (e.g., atypical angina) and heart disease risk.
+- Reported analytical findings and model interpretations to **clinical stakeholders**, translating statistical outcomes into actionable insights for early intervention strategies and future research direction.
+
+---
+
+### Trading Capture System -- Execution Engine
+**Tools:** Java, MySQL  
+Philadelphia, PA | Aug 2025 – Present
+
+- Developed core backend services in **Java** for a transaction capture and execution pipeline, supporting data integrity, correctness, and operational reliability.
+- Designed and managed **MySQL** and MongoDB data stores to handle high-volume records, emphasizing schema consistency, data quality, and query reliability.
+- Contributed to an iterative development workflow using **Git** and **Maven**, incorporating testing, code reviews, and incremental improvements to enhance **system maintainability and stability**.
+
+
+---
+
+### QuickPlate – Food Recipe Mobile App (HCI Design Project)  
+**Tools:** Figma  
+Champaign, IL | Jan 2024 – May 2024
+
+- Designed a mobile recipe app prototype to help users find meals based on **time, cost, dietary preferences, and available ingredients**
+- Conducted thorough analysis of existing recipe apps to inform feature selection and usability decisions
+- Created end-to-end user flows including recipe discovery, shopping lists, and user profiles
+- Integrated **accessibility considerations**, such as large touch targets, consistent layouts, and reduced cognitive load
+
+
+---
+
+
+## 📖 research Experience
+
+### 3D Heart Electrophysiology Simulation  
+**Research Assistant**  
+Shanghai, China | Nov 2024 – Jun 2025
+
+- Built a **GPU-accelerated 3D cardiac electrophysiology simulator** in **C/CUDA**, modeling large-scale myocardial grids and parallelizing cell-state updates for high-resolution simulations.
+- Extended a **cellular automata framework** to explicitly model **depolarization and repolarization**, redesigning state-transition rules and calibrating timing parameters to better reflect physiological behavior.
+- Analyzed electrical conduction and propagation pathways across atria, ventricles, and the conduction system, examining how activation timing and conduction delays shape characteristic ECG waveforms.
+- Implemented **full 12-lead ECG computation** and an **end-to-end simulation workflow**, supporting pacemaker stimulation and arrhythmia scenarios (e.g., **PVC**, **atrial flutter**) with visualization for analysis.
+
+
+---
+
+## 🌱 Extracurricular Experience
+
+### Event Management Volunteer  
+**China Thinks Big National Forum**  
+Shanghai, China | Feb 2025 – Mar 2025
+
+- Supported on-site operations for a national academic forum with **1,900+ students, faculty, and guests**
+- Hosted high school paper presentation and defense sessions, coordinating judges and managing time flow
+- Facilitated a **leadership simulation workshop**, engaging directly with students and promoting inclusive participation
+
+
+

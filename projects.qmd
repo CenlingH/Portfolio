@@ -1,0 +1,177 @@
+# My Projects
+
+---
+
+## 1. UIUC Student Data Analysis & Tableau Dashboard - ATLAS Internship in UIUC
+
+**Tools:** Python, Tableau  
+**Type:** Data Analytics Internship
+
+### 🧭 Overview
+This project focuses on analyzing **UIUC student datasets** to uncover
+patterns related to **academic performance and student outcomes**. The goal was not only to analyze the data and find students at risk of dropping out, but to translate complex academic
+information into clear, interactive visual insights that can be understood by both technical and non-technical audiences.
+
+### 🔍 What I Did
+- **Cleaned and validated institutional student data**, ensuring consistency across academic records  
+- Researched and analyzed key academic indicators such as **GPA, academic standing, social economic status, and geographic attributes** that may influence student success
+- Explored patterns in unfinished students and academic risk levels through exploratory analysis  
+- Built **interactive Tableau dashboards** to allow users to explore trends and compare student outcomes dynamically  
+
+### 📊 Key Insights
+- Student academic outcomes exhibit **clear geographic disparities** across regions
+- Students from areas with **less access to educational resources** show a **higher proportion of unfinished enrollment**
+- These regions also contain a **larger share of students in poor academic standing**, including probation-level status
+- The coexistence of **unfinished enrollment** and **academic risk** suggests that structural and regional factors may play an important role in student performance
+
+
+### 🎯 Why This Project Matters
+Rather than presenting static charts, this project emphasizes  **data storytelling and clarity**.
+
+By allowing users to interact with the dashboard, researchers and educators can:
+- Explore academic patterns independently across different student groups  
+- **Identify students who may be at potential academic risk and require additional attention**  
+- Better understand how multiple factors relate to student progress and outcomes
+
+
+### 🔗 Output
+- 👉 **Interactive Tableau Dashboard:**  
+  **[View on Tableau Public](https://public.tableau.com/app/profile/yiran.hu5618/viz/Book2_17211120709020/Dashboard1)**
+
+![Geographic distribution of student academic status and unfinished enrollment across regions.](assets/uiuc_tableau_map.png)
+
+---
+
+## 2. Web Development – Community Service Center of Northern Champaign County
+
+**Tools:** WordPress, HTML, CSS   
+**Type:** Web Development Internship
+
+### 🧭 Overview
+Redesigned and improved a community service organization’s website to make
+key resources easier to find and to support a broader audience with bilingual content.
+The focus was on **real-world usability**: helping visitors quickly locate services,
+learn how to volunteer, and complete donations with fewer steps.
+
+### 🔧 What I Delivered
+- **Rebuilt the site structure and navigation**, reorganizing content so visitors can easily locate
+  key information such as services, events, and volunteering opportunities  
+- Redesigned and updated core pages, including **Service** and **Volunteer** sections, to improve clarity and usability  
+- Implemented a **bilingual language experience (English / Spanish)** and maintained content consistency across both versions  
+- **Created and maintained an interactive event calendar**, enabling staff to freely add, edit, and remove events  
+- Designed **event pop-up interactions** that display event details on hover, improving event discoverability  
+- Regularly **updated event content and media**, including adding new activities, descriptions, and photos to keep the site current  
+
+
+### ✅ Impact
+- Improved **information accessibility** for diverse community members, including bilingual audiences  
+- Increased visibility of **community events and activities** through a clear, regularly updated event calendar  
+- Delivered a more **consistent and maintainable website structure** to support ongoing content updates
+
+
+
+### 🔗 Output
+- **Archived version of the live production website:**  
+  [View via Internet Archive](https://web.archive.org/web/20241203104559/https://cscrantoul.org/)
+
+> *Note:* The website has since been updated and maintained by other contributors after my internship.  
+> This archived version reflects the site structure and content during my contribution period.  
+> Some dynamic elements (e.g., event calendar interactions or gallery images) may not fully load due to archiving limitations.
+
+**Event page (captured during normal operation):**
+
+![Event calendar page with interactive event details and hover pop-ups.](assets/web development event calendar.png)
+
+---
+
+## 3. QuickPlate – Food Recipe Mobile App (HCI Design Project)
+
+**Tools:** Figma  
+**Type:** UX / UI Design · Human-Computer Interaction
+
+
+### 🧭 Overview
+QuickPlate is a mobile recipe application designed to help users quickly find
+meals that match their **time constraints, budget, dietary preferences, and
+available ingredients**.  
+The project focuses on **reducing the cognitive and emotional burden of meal
+planning**, especially for busy students and individuals with limited time.
+
+
+### 👤 User Problem & Use Cases
+This app was designed around realistic, everyday scenarios, such as:
+- A student returning home after work who wants to cook using **only the ingredients already available**
+- Users with **limited time** who need recipes filtered by total cooking time
+- Individuals looking to **explore new dishes** without complicated preparation steps
+
+QuickPlate addresses these needs by allowing users to filter recipes by
+**ingredients, cooking time, cost, time of day, and dietary preferences**
+(e.g., vegetarian or vegan).
+
+
+
+### 🧩 Design Process
+- Conducted analysis of existing recipe apps to identify gaps in usability and feature focus  
+- Prioritized **simplicity and quick decision-making** over excessive recipe complexity  
+- Designed user flows that support:
+  - Saving and editing personal recipes  
+  - Generating a **combined ingredient list** that functions as a shopping list  
+  - Tracking cooked meals and favorited recipes through a user profile  
+
+
+
+### ♿ Accessibility & Inclusive Design
+Accessibility was a core consideration throughout the design:  
+- **Mobility impairments:** Large buttons, simplified interactions, and layouts optimized for one-handed use  
+- **Cognitive accessibility:** Consistent layouts, clear iconography, and reduced visual clutter to lower cognitive load  
+- **Neurodiversity & mental health:** Calm color palette, no flashing elements, and predictable navigation to reduce stress and anxiety  
+These choices were made to ensure the app is usable, welcoming, and easy to learn for a wide range of users.
+
+
+
+### 🎯 Outcome
+The final Figma prototype demonstrates:
+- A complete end-to-end user flow from recipe discovery to meal tracking  
+- Clear information hierarchy and intuitive navigation  
+- A design that balances **functionality, accessibility, and visual clarity**
+
+
+### 🔗 Output
+- 👉 **Interactive Figma Prototype:**  
+  **[View Prototype](https://www.figma.com/proto/z3WBuJrZoUGTZfcfyKCC3N/Food-app?node-id=72-325&p=f&t=nH1wPWM24j54kJT9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=72%3A325)**
+
+![QuickPlate mobile app prototype showcasing recipe filtering and user flow.](assets/figma prototype.png)
+
+- 🎥 **Design Walkthrough Video**
+
+The following video presents a walkthrough of the QuickPlate prototype,
+including **design motivation, challenges encountered, key decisions, and
+scenario-based demonstrations** of how users interact with the app. 😆
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/KQMI0SWThss"
+title="QuickPlate HCI Design Walkthrough"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+
+---
+<!--
+## 4. 3D Cardiac Electrophysiology Simulation
+
+**Tools:** C, CUDA, Python  
+**Type:** Research Project
+
+### Overview
+Developed a GPU-accelerated simulation system to model electrical signal
+propagation in myocardial tissue and generate ECG signals.
+
+### What I Did
+- Modeled myocardial cell-state transitions including depolarization and repolarization
+- Implemented custom CUDA kernels for large-scale grid-based simulations
+- Generated and visualized 12-lead ECG signals for validation
+
+### Output
+- Simulation results and ECG visualizations
+-->

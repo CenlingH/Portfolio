@@ -1,0 +1,40 @@
+# Hi, I'm Yiran Hu
+
+![Yiran Hu](assets/Yiran Hu.jpg){width=300px}
+
+I am a graduate student in **Systems Engineering** with a background in
+**Computer Science and data analysis**.
+
+❤️ I work at the intersection of **data science and computer programming**,
+and I enjoy taking on a wide range of problems rather than staying within
+a single discipline. I am motivated by curiosity and enjoy learning from
+different industries and people, as I believe this breadth helps me build
+stronger judgment and opens up more possibilities for my future work. 
+
+
+---
+
+### 🔍 What I Work On
+- **Data analysis & visualization** — transforming complex datasets into clear, actionable insights (Python, Tableau)
+- **Applied research & computational modeling** — translating scientific and technical concepts into working systems (simulation, ECG)
+- **Web development & content systems** — building and maintaining real-world websites with sustainable content workflows (WordPress, HTML/CSS)
+- **Machine learning & data analysis** — exploring models to identify patterns and risk signals in large-scale data
+- **Technical communication & storytelling** — presenting technical work clearly to non-technical audiences through visuals and narrative
+- **Human-centered design & accessibility** — designing usable, inclusive interfaces grounded in real user needs (Figma, HCI)
+
+
+---
+
+### 📂 Featured Work
+Please visit the **Projects** page to explore selected projects, including:   
+- Interactive data dashboards analyzing student academic outcomes.   
+- A community service website redesigned and maintained using WordPress.   
+- A mobile recipe app prototype designed with accessibility in mind.   
+
+---
+
+### 🔗 Connect With Me
+- **GitHub:** [https://github.com/CenlingH](https://github.com/CenlingH)  
+- **LinkedIn:** [https://www.linkedin.com/in/yiran-h-942815293/](https://www.linkedin.com/in/yiran-h-942815293/)  
+- **Instagram:** [https://www.instagram.com/yiranhu1225/](https://www.instagram.com/yiranhu1225/)  
+- **Email:** [yiranhu@seas.upenn.edu](mailto:yiranhu@seas.upenn.edu)
